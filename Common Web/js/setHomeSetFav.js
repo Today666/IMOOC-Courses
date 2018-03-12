@@ -1,4 +1,4 @@
-//¼ÓÈëÊÕ²Ø
+//加入收藏
 
 function AddFavorite(sURL, sTitle)
 {
@@ -22,7 +22,7 @@ function AddFavorite(sURL, sTitle)
         catch (e)
         {
             
-            alert("¼ÓÈëÊÕ²ØÊ§°Ü£¬ÇëÊ¹ÓÃCtrl+D½øÐÐÌí¼Ó,»òÊÖ¶¯ÔÚä¯ÀÀÆ÷Àï½øÐÐÉèÖÃ.");
+            alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
             
         }
         
@@ -30,7 +30,7 @@ function AddFavorite(sURL, sTitle)
     
 }
 
-//ÉèÎªÊ×Ò³
+//设为首页
 
 function SetHome(url)
 {
@@ -46,7 +46,7 @@ function SetHome(url)
     else
     {
         
-        alert("ÄúºÃ,ÄúµÄä¯ÀÀÆ÷²»Ö§³Ö×Ô¶¯ÉèÖÃÒ³ÃæÎªÊ×Ò³¹¦ÄÜ,ÇëÄúÊÖ¶¯ÔÚä¯ÀÀÆ÷ÀïÉèÖÃ¸ÃÒ³ÃæÎªÊ×Ò³!");
+        alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
         
     }
     
