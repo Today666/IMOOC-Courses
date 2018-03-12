@@ -10,6 +10,6 @@
 
 <h3>Ecommerce website——电商网站页面</h3>
 共包含是三个页面：网站首页（index）、产品分类页（classification）、产品删选页（filter）<br>
-网站首页展示：[demo]( https://today666.github.io/Web-pages-practices/Ecommerce%20website/index.html)<br>
-产品分类页展示：[demo]( https://today666.github.io/Web-pages-practices/Ecommerce%20website/classification.html)<br>
-产品删选页展示：[demo]( https://today666.github.io/Web-pages-practices/Ecommerce%20website/filter.html)<br>
+网站首页展示：[demo](https://today666.github.io/Web-pages-practices/Ecommerce%20website/index.html)<br>
+产品分类页展示：[demo](https://today666.github.io/Web-pages-practices/Ecommerce%20website/classification.html)<br>
+产品删选页展示：[demo](https://today666.github.io/Web-pages-practices/Ecommerce%20website/filter.html)<br>
